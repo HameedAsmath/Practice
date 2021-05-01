@@ -1,0 +1,59 @@
+html {
+  font-size: 10px;
+}
+body {
+  margin: 0;
+  font-size: 1em;
+  font-family: "Lato", sans-serif;
+  color: #2e354f;
+}
+strong {
+  font-weight: 900;
+}
+
+h1 {
+  font-size: 3rem;
+  margin: 0;
+}
+
+h2 {
+  font-size: 2rem;
+  color: #ef5839;
+}
+img {
+  width: 100%;
+}
+ul {
+  font-size: 1.5rem;
+}
+li {
+  font-size: 1.5rem;
+}
+a:hover {
+  color: #ef5839;
+}
+.Contact-us :hover {
+  color: blue;
+  background: #999;
+}
+
+header {
+  background: #2e354f;
+  padding: 45px 0;
+  color: #fff;
+}
+
+section {
+  padding: 45px 0;
+}
+
+.container {
+  width: 90%;
+  margin: 0 auto;
+  max-width: 520px;
+}
+
+.section-two {
+  background: #2e354f;
+  color: #fff;
+}
